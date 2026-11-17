@@ -1,2 +1,2 @@
-# Mwdical-patients
+# Medical-patients
 Classification of diabetes patients
